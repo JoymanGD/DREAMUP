@@ -1,4 +1,5 @@
 ####################INTRO:
+
 I spent ~4.5 working days on it.
 
 I used a few scripts (few managers from Scripts/Managers folder) from my common Unity template "WaldemGame" (written fully by me) but most part of it was modified during this project.
